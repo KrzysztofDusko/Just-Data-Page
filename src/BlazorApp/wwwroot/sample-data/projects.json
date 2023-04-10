@@ -5,8 +5,8 @@
     "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
   },
   {
-    "title": "Reading/writing Excel files .NET library",
-    "description": "The .NET library for fast reading and writing Excel files (.xlsx, .xlsb). Simple and sMall 100% managed code",
+    "title": "Reading&writing Excel files .NET library",
+    "description": "The .NET library for fast reading and writing Excel files (.xlsx, .xlsb). Simple and small 100% managed code",
     "url": "https://github.com/KrzysztofDusko/SpreadSheetTasks"
   },
   {
